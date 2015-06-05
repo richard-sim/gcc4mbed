@@ -1,0 +1,3 @@
+[submodule "external/mbed"]
+	path = external/mbed
+	url = https://richard-sim@github.com/richard-sim/mbed.git
